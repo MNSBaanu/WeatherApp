@@ -40,4 +40,15 @@ This mini-course teaches PHP from scratch, emphasizing **practical usage** and *
 
 ---
 
-#
+## ⚡ Why This Course
+
+This mini-course is perfect for anyone who wants to:  
+
+- Learn PHP with a focus on **modern best practices**  
+- Build a strong foundation for **Laravel development**  
+- Gain **hands-on coding experience** through small projects  
+
+---
+
+## 📂 Repository Structure
+
