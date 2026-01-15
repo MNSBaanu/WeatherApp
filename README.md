@@ -4,17 +4,6 @@ This repository contains **study notes and practice code** from the PHP Fundamen
 
 ---
 
-## 🏆 About the Course
-
-- **Instructor:** Christoph Rumpel  
-- **Lessons:** 10  
-- **Duration:** 1 hr 11 min  
-- **Category:** Fundamentals  
-
-This mini-course teaches PHP from scratch, emphasizing **practical usage** and **modern PHP features**, providing a strong base for Laravel development.
-
----
-
 ## 📚 Course Contents
 
 1. **Why PHP** – Learn why PHP is still a powerful choice for web development, its evolution, and ecosystem.  
@@ -48,7 +37,5 @@ This mini-course is perfect for anyone who wants to:
 - Build a strong foundation for **Laravel development**  
 - Gain **hands-on coding experience** through small projects  
 
----
 
-## 📂 Repository Structure
 
