@@ -17,25 +17,3 @@ This repository contains **study notes and practice code** from the PHP Fundamen
 9. **Composer** – Manage dependencies and set up projects professionally using PHP’s package manager.  
 10. **Your First PHP Application** – Build a CLI weather application using all the concepts learned.  
 
----
-
-## 💡 Key Learnings
-
-- PHP fundamentals and modern syntax  
-- Object-oriented programming in PHP  
-- Arrays, loops, functions, and type handling  
-- Composer for dependency management  
-- Hands-on project experience building a CLI application  
-
----
-
-## ⚡ Why This Course
-
-This mini-course is perfect for anyone who wants to:  
-
-- Learn PHP with a focus on **modern best practices**  
-- Build a strong foundation for **Laravel development**  
-- Gain **hands-on coding experience** through small projects  
-
-
-
