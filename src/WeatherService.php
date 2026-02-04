@@ -6,12 +6,14 @@ use GuzzleHttp\Client;
 
 class WeatherService
 {
-    private string $apiKey = '7246de415ccc5d4ff9c4fbb2852575d6';
+    private string $apiKey = 'c95b0f03d9d946c11de213af33b1af1a';
     private string $apiEndpoint = 'https://api.openweathermap.org/data/2.5/weather';
     private Client $client;
 
     public function __construct() {
-        $this->client = new Client();
+        $this->client = new Client([
+            'verify' => false // Disable SSL verification for testing
+        ]);
     }
 
     public function getWeather(string $city): array
